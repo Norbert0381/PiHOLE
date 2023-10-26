@@ -1,1 +1,1 @@
-adclick.g.doubleclick.net
+https://go.xlirdr.com
