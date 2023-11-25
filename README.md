@@ -9,3 +9,5 @@
 0.0.0.0 eu-adsrv.rtbsuperhub.com^
 0.0.0.0 https://chaturbate.com/monkeylina/
 0.0.0.0 ysesials.net^
+0.0.0.0 ams3-ib.adnxs.com/^
+0.0.0.0 ad.doubleclick.net/^
