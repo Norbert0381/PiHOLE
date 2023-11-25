@@ -11,3 +11,4 @@
 0.0.0.0 ysesials.net^
 0.0.0.0 ams3-ib.adnxs.com/^
 0.0.0.0 ad.doubleclick.net/^
+0.0.0.0 adnxs-com/^
